@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'http://http://ec2-52-53-208-245.us-west-1.compute.amazonaws.com:8080/';
 
 export async function apiRequest(path, options = {}) {
   const token = sessionStorage.getItem('token');
