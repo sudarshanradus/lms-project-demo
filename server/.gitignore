@@ -1,0 +1,11 @@
+target/
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+.settings/
+.project
+.classpath
