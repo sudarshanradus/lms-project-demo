@@ -2,7 +2,7 @@
 
 # Define Variables
 PROJECT_DIR=~/lms-project-demo
-IP_ADDRESS="52.53.118.180"
+IP_ADDRESS="Enter you ip"
 
 echo "------------------------------------------"
 echo "🚀 Starting Automated LMS Deployment"
